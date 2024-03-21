@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">I am interested in modern web and mobile technologies. I develop games with unity as a hobby.<br>I always try to follow the industry and use current technologies.</p>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/sefaozturkmen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -19,6 +15,12 @@
 </div>
 
 ###
+
+<p align="left">I am interested in modern web and mobile technologies. I develop games with unity as a hobby.<br>I always try to follow the industry and use current technologies.</p>
+
+###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
